@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PruebaAPI/FileContentIndex
+/.vs
+/PruebaAPI/.vs
+/PruebaAPI/PruebaApi/bin/Debug/net6.0
+/PruebaAPI/PruebaApi/obj
+/PruebaAPI/PruebaAPI.Entidades/bin/Debug/net6.0
+/PruebaAPI/PruebaAPI.Entidades/obj
+/PruebaAPI/PruebaApi.Negocio/bin/Debug/net6.0
+/PruebaAPI/PruebaApi.Negocio/obj
+/PruebaAPI/PruebaApi.Utilities/bin/Debug/net6.0
+/PruebaAPI/PruebaApi.Utilities/obj
